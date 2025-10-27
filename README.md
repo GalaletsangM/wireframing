@@ -25,3 +25,11 @@ Figma : A cloud-based design and prototyping tool widely used by designers, deve
 > Key Feautures
 >> Real-time collaboration : Multiple team members can view and edit designs simultaneously - perfect for distributed or design reviews.
 >> Wireframing and UI design tools : Easy drag-and-drop shapes, frames, and tect elements for low or high fidelity wireframes.
+
+# Benefits of wireframing
+1. Clear understanding of requirements
+2. Improved collaboration with designers and stakeholders
+3. Early validation before coding
+4. Efficient front-end development
+5. Better sprint planning and estimation
+6. Reduces scope creep
