@@ -19,3 +19,9 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
 # Types of Wireframes
 Low-Fedility Wireframes : Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design
 High-Fedelity Wireframes : More detailed and refined versions, often closer to final design, including more specific layout and design elements.
+
+# Popular Wireframing Tools
+Figma : A cloud-based design and prototyping tool widely used by designers, developers, and product teams to create user interfaces, wireframes, and interactive prototypes. 
+> Key Feautures
+>> Real-time collaboration : Multiple team members can view and edit designs simultaneously - perfect for distributed or design reviews.
+>> Wireframing and UI design tools : Easy drag-and-drop shapes, frames, and tect elements for low or high fidelity wireframes.
