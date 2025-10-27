@@ -33,3 +33,7 @@ Figma : A cloud-based design and prototyping tool widely used by designers, deve
 4. Efficient front-end development
 5. Better sprint planning and estimation
 6. Reduces scope creep
+
+# A real-world scenario
+> Hotel Booking System
+>> A development team was buidling a hotel booking management system for a travel starup. Before jumping into coding, they created wireframes in figma to visualize the user journey -- for searching for rooms to completing checkout.
